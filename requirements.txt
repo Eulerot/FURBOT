@@ -5,7 +5,7 @@ attrs==21.2.0
 chardet==4.0.0	
 decorator==5.0.9	
 discord==1.7.3	
-discord-component==1.1.4	
+discord-components==1.1.4	
 discord.py==1.7.3	
 dnspython==2.1.0	
 idna==3.2	
